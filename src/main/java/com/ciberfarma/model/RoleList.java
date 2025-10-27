@@ -1,0 +1,5 @@
+package com.ciberfarma.model;
+
+public enum RoleList {
+	ROLE_USER, ROLE_ADMIN
+}
